@@ -103,7 +103,7 @@ resource "aws_dynamodb_table" "app_state" {
     attribute_name = "ExpiresAt"
     enabled        = true
   }
-  
+
   tags = {
     Name        = "${var.project_name}-app-state"
     Environment = var.environment
