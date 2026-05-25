@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/muzixiaowuwuyi/ce-lab-cicd-best-practices/compare/v1.1.0...v1.1.1) (2026-05-25)
+
+
+### Bug Fixes
+
+* fix the format for terraform/main.tf ([63b17fc](https://github.com/muzixiaowuwuyi/ce-lab-cicd-best-practices/commit/63b17fcd7e3dc5ece8c1427185879060aaca6a76))
+
 ## [1.1.0](https://github.com/muzixiaowuwuyi/ce-lab-cicd-best-practices/compare/v1.0.0...v1.1.0) (2026-05-25)
 
 
