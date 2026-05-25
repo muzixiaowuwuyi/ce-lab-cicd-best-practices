@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/muzixiaowuwuyi/ce-lab-cicd-best-practices/compare/v1.0.0...v1.1.0) (2026-05-25)
+
+
+### Features
+
+* enable TTL on DynamoDB table ([#5](https://github.com/muzixiaowuwuyi/ce-lab-cicd-best-practices/issues/5)) ([624b4d0](https://github.com/muzixiaowuwuyi/ce-lab-cicd-best-practices/commit/624b4d01045f77ff507cbe67eed65af103fe1d27))
+
 ## 1.0.0 (2026-05-25)
 
 
