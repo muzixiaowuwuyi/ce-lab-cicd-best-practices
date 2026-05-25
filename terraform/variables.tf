@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "project_name" {
   description = "Project name used in resource naming"
   type        = string
-  default     = "cicd-best-practices"
+  default     = "cicd-best-practices-v2"
 }
 
 variable "environment" {
